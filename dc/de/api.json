@@ -1,7 +1,7 @@
 {
   "required-param-missing": "A required parameter was missing",
   "invalid-configuration-params": "Invalid configuration",
-  "invalid-params": "Invalid parameters",
+  "invalid-params": "Invalid parameters ",
   "saving-failed": "Saving failed",
   "loading-failed": "Loading failed",
   "configuration-saving-failed": "Configuration saving failed",
